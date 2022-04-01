@@ -1,0 +1,11 @@
+font-awesome
+*.Rproj.user
+*.Rhistory
+*.Ruserdata
+*.Rproj
+*.rdb
+*.rdx
+__globals
+__objects
+__packages
+.Rproj.user
