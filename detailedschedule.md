@@ -5,7 +5,6 @@
 Themen
 - Organisatorische und inhaltliche Einführung in das Seminar
 - [Folien](https://jobschepens.github.io/didakt22/folien/week1.pptx)
-- Optional: Terhart, E. (2013). Guter Unterricht: Die Perspektiven empirischer Unterrichtsforschung und allgemeiner Didaktik. In: Erziehungswissenschaft und Lehrebildung. Waxmann. 
 
 **Aufgabe (Nachbereitung)**
 - Lehrerfahrung 
@@ -19,7 +18,7 @@ Themen
 
 Vorzubereitende Texte 
 - Meyer, Meinert A. (2016): Rückständig oder zukunftsweisend? Reflexionen zum Potential der Allgemeinen Didaktik. In: Wegner, Anke (Hrsg.): Allgemeine Didaktik: Praxis, Positionen, Perspektiven. Leverkusen: Verlag Barbara Budrich, S. 49-86; daraus: S. 55-64.
-- [Podcast ueber Comenius)](https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-johann-amos-comenius-theologe-und-paedagoge-todestag--100.html)
+- [Podcast ueber Comenius](https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-johann-amos-comenius-theologe-und-paedagoge-todestag--100.html)
 - [Video ueber den Comenius-Garten](https://youtu.be/dfG1Y872mxw)
 - Syllabus 
 
