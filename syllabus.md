@@ -15,7 +15,7 @@ output: html_document
 - Veranstaltungsnummer: 121246
 - Sommer Semester 2022
 - Zeit: Dienstags 2 x 45 min, 10.00-12.00 (cum zeit: 10.15 real start)
-- Aufwand: 270 Stunden (6 Stunden pro Woche pro Element)
+- Aufwand: 90 Stunden 
 - Format: Praesenz + Digital
 - Teacher: Job Schepens [TU Dortmund Homepage](http://www.ifs.tu-dortmund.de/cms/de/Home/Mitarbeiter/Wissenschaftliche-Mitarbeiter/Schepens-Job.html)
 - Language: German
@@ -88,8 +88,9 @@ Bei der Überarbeitung sollten Sie alles, was Sie geschrieben haben, daraufhin p
 
 # Sitzungen
 
-Die Sitzungen dienen der kritischen und gemeinsamen Auseinandersetzung mit den Themen und Inhalten der Artikel. Meine Erfahrung ist, dass die Sitzungen sehr sinnvoll sein, aber vor allem, wenn man sich vorher vorbereitet. Wenn man es nicht schafft vor der Sitzung ein Text zu lesen, ist es sogar wahrscheinlich sinnvoller, den Text zu lesen, als zu der Sitzung zu kommen. Das erste Sitzungsteil wird durch Studierenden geleitet und bietet eine kurze Zusammenfassung des jeweiligen Textes und erklärt die wichtigsten neuen Begriffe aus dem Text. Eine Zuordnung der Studierenden auf die Sitzungen erfolgt in der ersten Sitzung. Im zweiten Teil wird in Kleingruppen diskutiert anhand verschiedene Interpretationshinweisen. Die Studierenden besprechen ihre vorbereitete Kritikpunkte und Fragestellungen zusammen und bereiteten sich so auf das Schreiben eines Portfolioeintrags vor. Ziel ist, dass die Studierenden nach jeder Sitzung ein tieferes Verständnis des Textes entwickelt haben und leichter ein Beitrag im Portfolio schreiben können.
+Grundsätzlich besteht die Möglichkeit, das Seminar sowohl in Präsenz (EBH / B.20/22 (Konferenzraum) als auch digital zu besuchen. Ich werde aber immer zuerst und hauptsaechlich die Sitzung im Praesenz begleiten. Der Zoom Raum ist aber gut fuer Kleingruppenarbeit und ich werde auch zwischendurch zuschalten und Fragen beantworten. Die Sitzungen haben keine Teilnahmeverpflichtung. 
 
+Die Sitzungen dienen der kritischen und gemeinsamen Auseinandersetzung mit den Themen und Inhalten der Artikel. Meine Erfahrung ist, dass die Sitzungen sehr sinnvoll sein können, aber vor allem, wenn man sich vorher vorbereitet hat. Wenn man es nicht schafft vor der Sitzung den jeweiligen Text zu lesen, ist es sogar wahrscheinlich sinnvoller, den Text zu lesen, als zu der Sitzung zu kommen. Der erste Sitzungsteil wird von Studierenden geleitet und bietet eine kurze Zusammenfassung des jeweiligen Textes und erklärt die wichtigsten neuen Begriffe aus dem Text. Eine Zuordnung der Studierenden auf die Sitzungen erfolgt in der ersten Sitzung. Im zweiten Teil wird in Kleingruppen, anhand verschiedener Interpretationshinweisen diskutiert. Die Studierenden besprechen ihre vorbereiteten Kritikpunkte und Fragestellungen zusammen und bereiteten sich so auf das Schreiben eines Portfolioeintrags vor. Ziel ist es, dass die Studierenden nach jeder Sitzung ein tieferes Verständnis des Textes entwickelt haben und so leichter einen Beitrag im Portfolio schreiben können.
 
 # Acknowledgements
 
