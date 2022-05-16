@@ -74,8 +74,6 @@ Vorzubereitende Texte
 - Koch-Priewe, Barbara/ Köker, Anne/ Störtländer, Jan Christoph (2016): Die bildungstheoretische Didaktik und die kritisch-konstruktive Didaktik. In: Porsch, Rafaela (Hrsg.): Einführung in die Allgemeine Didaktik. Ein Lehr- und Arbeitsbuch für Lehramtsstudierende. Münster: Waxmann, S. 101-117:
 
 **Aufgabe (Nachbereitung)**
-- Gegenwartsbedeutungsaufgabe (Moodle)
-- Online-Umfrage [URL](https://evaluation.tu-dortmund.de/evasys/online.php?pswd=9QLRY)
 - Vierter Eintrag im Portfolio
 
 
